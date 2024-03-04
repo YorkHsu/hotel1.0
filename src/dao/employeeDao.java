@@ -164,7 +164,6 @@ public class employeeDao {
 
     }
     /**
-     * 著作权和解释权归许悦所有
      * @return
      */
     public boolean owner(){
